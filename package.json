@@ -2,7 +2,7 @@
   "name": "autolink.js",
   "version": "0.1.1",
   "description": "Auto-link url and images",
-  "main": "dist/autolink.js",
+  "main": "src/main.js",
   "files": [
     "dist"
   ],
